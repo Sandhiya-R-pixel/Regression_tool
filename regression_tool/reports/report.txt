@@ -1,0 +1,15 @@
+Test 1: FAIL
+Input: Hello World
+Version1 Output: HELLO WORLD
+Version2 Output: hello world
+----------------------------------------
+Test 2: FAIL
+Input: Python Testing
+Version1 Output: PYTHON TESTING
+Version2 Output: python testing
+----------------------------------------
+Test 3: FAIL
+Input: Regression Check
+Version1 Output: REGRESSION CHECK
+Version2 Output: regression check
+----------------------------------------
