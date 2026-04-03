@@ -1,4 +1,4 @@
-# 🧪 Regression Testing Tool for Software Versions
+#  Regression Testing Tool for Software Versions
 
 ## 📌 Project Overview
 
